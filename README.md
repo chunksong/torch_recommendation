@@ -14,18 +14,18 @@ From the basic
   |Ranking|
 
 > How?
- - Content-Based
- - Collaborative filtering
- - Demogrpahic
- - Knowledge-Based
- - Context-Based
- - Community-Based
- - Hybrid
+> - Content-Based
+> - Collaborative filtering
+> - Demogrpahic
+> - Knowledge-Based
+> - Context-Based
+> - Community-Based
+> - Hybrid
 
 > Evaluation
-  - revenue, page views, KPI
-  - Novelty, Relevance, Serendipity, Diversity
-  - Performance: RMSE, P@K, NDCG, Precision & Recall, AUC
+>  - revenue, page views, KPI
+>  - Novelty, Relevance, Serendipity, Diversity
+>  - Performance: RMSE, P@K, NDCG, Precision & Recall, AUC
 
 > Future Works List
   |checklist|
