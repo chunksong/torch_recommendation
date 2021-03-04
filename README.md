@@ -8,14 +8,14 @@ Recommendation Systems provides suggestions for *_items_* to be of use to a *_us
 From the basic
 
 > Goals of a RS
-  |Goals|
-  |---|
-  |Prediction|
-  |Ranking|
+>  |Goals|
+>  |---|
+>  |Prediction|
+>  |Ranking|
 
 > How?
 > - Content-Based
-> - Collaborative filtering
+> - Collaborative Filtering
 > - Demogrpahic
 > - Knowledge-Based
 > - Context-Based
@@ -28,6 +28,6 @@ From the basic
 >  - Performance: RMSE, P@K, NDCG, Precision & Recall, AUC
 
 > Future Works List
-  |checklist|
-  |---|
-  ||
+>  |checklist|
+>  |---|
+>  ||
