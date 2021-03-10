@@ -33,7 +33,7 @@ From the basic
 > Using [Movielens dataset](https://grouplens.org/datasets/movielens/)
 >  |checklist|
 >  |---|
->  |CF(The Netflix Challenge)|
+>  |Basic CF(item & user\The Netflix Challenge)|
 >  |SVD|
 >  |SVD++|
 >  |Neural CF|
