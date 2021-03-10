@@ -3,6 +3,7 @@
 Try to build *basic recommendation module* on torch.
 
 Because of _Long Tail_ Economy, *Recommendation Systems* is an essential for the consumption of contents.
+
 Recommendation Systems provides suggestions for *_items_* to be of use to a *_user_*.
 
 From the basic
@@ -28,6 +29,10 @@ From the basic
 >  - Performance: RMSE, P@K, NDCG, Precision & Recall, AUC
 
 > Future Works List
+> Using [Movielens dataset](https://grouplens.org/datasets/movielens/)
+>
 >  |checklist|
 >  |---|
->  ||
+>  |The Netflix Challenge|
+>  |SVD|
+>  |SVD++|
