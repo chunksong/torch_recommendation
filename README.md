@@ -29,8 +29,7 @@ From the basic
 >  - Performance: RMSE, P@K, NDCG, Precision & Recall, AUC
 
 > Future Works List
-> Using [Movielens dataset](https://grouplens.org/datasets/movielens/)
->
+>  Using [Movielens dataset](https://grouplens.org/datasets/movielens/)
 >  |checklist|
 >  |---|
 >  |The Netflix Challenge|
