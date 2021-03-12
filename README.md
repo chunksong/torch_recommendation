@@ -29,9 +29,11 @@ From the basic
 >  - Performance: RMSE, P@K, NDCG, Precision & Recall, AUC
 
 > Future Works List
->  Using [Movielens dataset](https://grouplens.org/datasets/movielens/)
+>
+> Using [Movielens dataset](https://grouplens.org/datasets/movielens/)
 >  |checklist|
 >  |---|
->  |Basic CF(users & items)|
+>  |Basic CF(item & user\The Netflix Challenge)|
 >  |SVD|
 >  |SVD++|
+>  |Neural CF|
